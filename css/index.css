@@ -301,11 +301,20 @@ header p{
 	margin: 1.25rem auto 0;
 	box-shadow: 0px 0.125rem  0.25rem 0.25rem #ccc;
 	overflow: hidden;
+	background: url(../image/main5.png) no-repeat center 0.875rem;
+	background-size: 17.5rem 5.8rem
 }
 .main5 img{
-	display: block;
-	margin-top: 0.9rem;
-	width: 17.5rem
+	float: left;
+	width: 5.35rem
+}
+.main5 img:nth-child(1){
+	margin-left: 0.45rem;
+	margin-top: 1.125rem
+}
+.main5 img:nth-child(2){
+	margin-left: 3.825rem;
+	margin-top: 1.125rem
 }
 .ff{
 	height: 2.675rem;
