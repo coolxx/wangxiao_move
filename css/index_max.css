@@ -294,10 +294,18 @@ header p{
 	margin: 50px auto 0;
 	box-shadow: 0px 10px  50px 10px #ccc;
 	overflow: hidden;
+	background: url(../image/main5.png) no-repeat center 35px;
 }
 .main5 img{
-	display: block;
-	margin-top: 36px;
+	float: left;
+}
+.main5 img:nth-child(1){
+	margin-left: 18px;
+	margin-top: 45px
+}
+.main5 img:nth-child(2){
+	margin-left: 150px;
+	margin-top: 45px
 }
 .ff{
 	height: 107px;
