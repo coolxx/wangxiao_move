@@ -50,7 +50,7 @@ header p{
   overflow: hidden;
   background: #fff;
   margin: 0.7rem auto 0;
-  box-shadow: 0px 0.25rem  1.25rem 0.25rem #ccc;
+  box-shadow: 0px 0.125rem  0.25rem 0.25rem #ccc;
 }
 .cho_1{
   width: 17.5rem;
@@ -173,7 +173,8 @@ header p{
 	width: 17.5rem;
 	height: 14.75rem;
 	margin: 1.25rem auto 0;
-	box-shadow: 0px 0.25rem 1.25rem 0.25rem #ccc;
+	 box-shadow: 0px 0.125rem  0.25rem 0.25rem #ccc;
+	 background: #fff;
 }
 .main2 h1{
 	font-size: 0.85rem;
@@ -279,7 +280,7 @@ header p{
 	width: 17.5rem;
 	height: 15.5rem;
 	margin: 1.25rem auto 0;
-	box-shadow: 0px 0.25rem  1.25rem 0.25rem #ccc;
+	 box-shadow: 0px 0.125rem  0.25rem 0.25rem #ccc;
 }
 .main4 h1{
 	font-size: 0.8rem;
@@ -293,17 +294,19 @@ header p{
 .main4 img{
 	display: block;
 	margin-top: 1.575rem;
+	width: 17.475rem
 }
 .main5{
 	width: 17.5rem;
 	height: 7.5rem;
 	margin: 1.25rem auto 0;
-	box-shadow: 0px 0.25rem  1.25rem 0.25rem #ccc;
+	box-shadow: 0px 0.125rem  0.25rem 0.25rem #ccc;
 	overflow: hidden;
 }
 .main5 img{
 	display: block;
 	margin-top: 0.9rem;
+	width: 17.5rem
 }
 .ff{
 	height: 2.675rem;
